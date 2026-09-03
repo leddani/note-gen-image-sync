@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Albania",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Albania",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Albania",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:-1 group-title="Albania",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Albania",Syri TV
+https://stream.syritv.al/SyriTV/index.m3u8
+
+#EXTINF:-1 group-title="Albania",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+
+#EXTINF:-1 group-title="Albania",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:-1 group-title="Albania",Tropoja TV
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Albania",RTSH 1
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+
+#EXTINF:-1 group-title="Albania",RTSH 24
+http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
